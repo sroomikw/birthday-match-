@@ -223,7 +223,6 @@ const TEACHER_HTML = page('Birthday Match, teacher', `<style>.wrap{max-width:980
   <p id="msg" class="msg" role="status"></p>
   <div class="row">
     <button id="reveal" class="btn primary" type="button" disabled>Reveal the result</button>
-    <span class="muted">Ask the class to predict out loud first.</span>
   </div>
 </section>
 <section id="result" class="card" hidden>
